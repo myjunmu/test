@@ -1,2 +1,2 @@
 # test
-git learning
+this is a test learning
